@@ -1,42 +1,51 @@
-# 👨‍💻 Darshan Sona 
-**Software Engineer | Data Science & MERN Stack**
-*Undergrad @ Mar Baselios College of Engineering and Technology*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Darshan%20Sona&fontSize=70&animation=fadeIn" />
+</p>
 
----
-
-### 🚀 Tech Stack
-
-**Languages & Data Science**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Machine Learning](https://img.shields.io/badge/ML-Data_Science-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Full-Stack Development**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**Engineering Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Version Control](https://img.shields.io/badge/Version_Control-Software_Engineering-blue?style=flat-square)
-
----
-
-### 📊 Activity & Mastery
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonadarshan99&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonadarshan99&layout=compact&theme=dracula" />
+<p align="center">
+  <a href="https://github.com/sonadarshan99">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;MERN+Stack+Developer;Data+Science+Enthusiast;Machine+Learning+Explorer" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 📫 Connect
-- **Email:** [sonadarshan99@gmail.com](mailto:sonadarshan99@gmail.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-username)
+### 🚀 Professional Arsenal
+
+**Core Engineering**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-00599C?style=for-the-badge&logo=google-chrome&logoColor=white)
+
+**Data Science & ML**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**MERN Stack**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
+
+### 📊 Performance Metrics
 <p align="center">
-  <i>"Curious by nature, Engineer by trade."</i>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sonadarshan99&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonadarshan99&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" />
+</p>
+
+---
+
+### 🤝 Let's Build Something Together
+<p align="left">
+<a href="https://www.linkedin.com/in/sonadarshan-here/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonadarshan-here" height="30" width="40" /></a>
+<a href="mailto:sonadarshan99@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sonadarshan99" height="30" width="40" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer" />
 </p>
